@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendGridLib", "SendGridLib\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRPCRepository", "PRPCRepository\PRPCRepository.csproj", "{B45DDF23-3C8C-4F57-9258-68C8F242DAA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{917D6F01-54CC-45C0-BDEA-C4DE472D6549}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{B45DDF23-3C8C-4F57-9258-68C8F242DAA5}.Release|x64.Build.0 = Release|Any CPU
 		{B45DDF23-3C8C-4F57-9258-68C8F242DAA5}.Release|x86.ActiveCfg = Release|Any CPU
 		{B45DDF23-3C8C-4F57-9258-68C8F242DAA5}.Release|x86.Build.0 = Release|Any CPU
+		{917D6F01-54CC-45C0-BDEA-C4DE472D6549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917D6F01-54CC-45C0-BDEA-C4DE472D6549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917D6F01-54CC-45C0-BDEA-C4DE472D6549}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{917D6F01-54CC-45C0-BDEA-C4DE472D6549}.Debug|x64.Build.0 = Debug|Any CPU
+		{917D6F01-54CC-45C0-BDEA-C4DE472D6549}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{917D6F01-54CC-45C0-BDEA-C4DE472D6549}.Debug|x86.Build.0 = Debug|Any CPU
+		{917D6F01-54CC-45C0-BDEA-C4DE472D6549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917D6F01-54CC-45C0-BDEA-C4DE472D6549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917D6F01-54CC-45C0-BDEA-C4DE472D6549}.Release|x64.ActiveCfg = Release|Any CPU
+		{917D6F01-54CC-45C0-BDEA-C4DE472D6549}.Release|x64.Build.0 = Release|Any CPU
+		{917D6F01-54CC-45C0-BDEA-C4DE472D6549}.Release|x86.ActiveCfg = Release|Any CPU
+		{917D6F01-54CC-45C0-BDEA-C4DE472D6549}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

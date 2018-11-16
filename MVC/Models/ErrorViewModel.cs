@@ -1,6 +1,6 @@
 using System;
 
-namespace PRPC.Models
+namespace MVC.Models
 {
     public class ErrorViewModel
     {
