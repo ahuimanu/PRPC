@@ -1,0 +1,11 @@
+@model UserListViewModel
+
+<ol>
+    @foreach(var user in Model.Users)
+    {
+        <li>@user.FirstName</li>
+    }
+</ol>
+
+
+@*<p>count: @Model</p>*@

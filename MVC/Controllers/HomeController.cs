@@ -6,10 +6,22 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using MVC.Models;
 
+using PRPCRepositoryLib;
+using PRPCRepositoryLib.Models;
+
+
 namespace MVC.Controllers
 {
     public class HomeController : Controller
     {
+
+        //private PRPCRepository repo;
+
+        public HomeController()
+        {
+            //repo = new PRPCRepository();
+        }
+
         public IActionResult Index()
         {
             return View();
@@ -27,6 +39,21 @@ namespace MVC.Controllers
             ViewData["Message"] = "Your contact page.";
 
             return View();
+        }
+
+        public IActionResult ProveIt()
+        {
+
+            UserListViewModel vm = new UserListViewModel();
+            PRPCRepository repo = new PRPCRepository();
+
+            using(repo.Context = new PRPCRepositoryDbContext())
+            {
+
+                vm.Users = repo.Context.Users.ToList();
+            }
+
+            return View(vm);
         }
 
         public IActionResult Privacy()

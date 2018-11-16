@@ -1,0 +1,8 @@
+C:\CIDM4390\PRPC\OAuthLib\bin\Debug\netstandard2.0\OAuthLib.deps.json
+C:\CIDM4390\PRPC\OAuthLib\bin\Debug\netstandard2.0\OAuthLib.dll
+C:\CIDM4390\PRPC\OAuthLib\bin\Debug\netstandard2.0\OAuthLib.pdb
+C:\CIDM4390\PRPC\OAuthLib\obj\Debug\netstandard2.0\OAuthLib.csproj.CoreCompileInputs.cache
+C:\CIDM4390\PRPC\OAuthLib\obj\Debug\netstandard2.0\OAuthLib.AssemblyInfoInputs.cache
+C:\CIDM4390\PRPC\OAuthLib\obj\Debug\netstandard2.0\OAuthLib.AssemblyInfo.cs
+C:\CIDM4390\PRPC\OAuthLib\obj\Debug\netstandard2.0\OAuthLib.dll
+C:\CIDM4390\PRPC\OAuthLib\obj\Debug\netstandard2.0\OAuthLib.pdb

@@ -2,13 +2,13 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Sqlite;
 
-namespace PRPCRepository.Models
+namespace PRPCRepositoryLib.Models
 {
     //here, we extend the DbContext class with our own class 'AppDbContext'
-    public class AppDbContext : DbContext
+    public class PRPCRepositoryDbContext : DbContext
     {
         //The connection string is used by the SQL Server database provider to find the database
-        private const string ConnectionString = @"Data Source=PRPCRepository.db";
+        private const string ConnectionString = @"Data Source=C:\CIDM4390\PRPC\Data\PRPCRepository.db";
 
         protected override void OnConfiguring(
             DbContextOptionsBuilder optionsBuilder)
@@ -17,7 +17,7 @@ namespace PRPCRepository.Models
             optionsBuilder.UseSqlite(ConnectionString);
         }        
 
-        public DbSet<User> User { get; set; }        
+        public DbSet<User> Users { get; set; }        
 
     }    
 }

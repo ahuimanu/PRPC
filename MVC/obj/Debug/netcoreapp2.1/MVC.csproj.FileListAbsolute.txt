@@ -5,6 +5,8 @@ C:\CIDM4390\PRPC\MVC\bin\Debug\netcoreapp2.1\MVC.dll
 C:\CIDM4390\PRPC\MVC\bin\Debug\netcoreapp2.1\MVC.pdb
 C:\CIDM4390\PRPC\MVC\bin\Debug\netcoreapp2.1\MVC.Views.dll
 C:\CIDM4390\PRPC\MVC\bin\Debug\netcoreapp2.1\MVC.Views.pdb
+C:\CIDM4390\PRPC\MVC\bin\Debug\netcoreapp2.1\PRPCRepositoryLib.dll
+C:\CIDM4390\PRPC\MVC\bin\Debug\netcoreapp2.1\PRPCRepositoryLib.pdb
 C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.csprojAssemblyReference.cache
 C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.csproj.CoreCompileInputs.cache
 C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.RazorAssemblyInfo.cache
@@ -18,6 +20,7 @@ C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
 C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
 C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
 C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\ProveIt.g.cshtml.cs
 C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
 C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
@@ -27,6 +30,6 @@ C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.RazorTargetAssemblyInfo.cache
 C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.RazorTargetAssemblyInfo.cs
 C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.Views.pdb
+C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.csproj.CopyComplete
 C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.dll
 C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.pdb
-C:\CIDM4390\PRPC\MVC\obj\Debug\netcoreapp2.1\MVC.csproj.CopyComplete

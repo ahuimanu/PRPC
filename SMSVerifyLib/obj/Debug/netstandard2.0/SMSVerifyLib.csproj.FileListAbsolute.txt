@@ -1,7 +1,6 @@
 C:\CIDM4390\PRPC\SMSVerifyLib\bin\Debug\netstandard2.0\SMSVerifyLib.deps.json
 C:\CIDM4390\PRPC\SMSVerifyLib\bin\Debug\netstandard2.0\SMSVerifyLib.dll
 C:\CIDM4390\PRPC\SMSVerifyLib\bin\Debug\netstandard2.0\SMSVerifyLib.pdb
-C:\CIDM4390\PRPC\SMSVerifyLib\obj\Debug\netstandard2.0\SMSVerifyLib.csprojAssemblyReference.cache
 C:\CIDM4390\PRPC\SMSVerifyLib\obj\Debug\netstandard2.0\SMSVerifyLib.csproj.CoreCompileInputs.cache
 C:\CIDM4390\PRPC\SMSVerifyLib\obj\Debug\netstandard2.0\SMSVerifyLib.AssemblyInfoInputs.cache
 C:\CIDM4390\PRPC\SMSVerifyLib\obj\Debug\netstandard2.0\SMSVerifyLib.AssemblyInfo.cs
