@@ -1,0 +1,13 @@
+C:\CIDM4390\PRPC-tests-sendgrid\PRPC-tests-sendgrid\PRPCRepository\obj\Debug\netstandard2.0\PRPCRepository.csprojAssemblyReference.cache
+C:\CIDM4390\PRPC-tests-sendgrid\PRPC-tests-sendgrid\PRPCRepository\obj\Debug\netstandard2.0\PRPCRepository.csproj.CoreCompileInputs.cache
+C:\CIDM4390\PRPC-tests-sendgrid\PRPC-tests-sendgrid\PRPCRepository\obj\Debug\netstandard2.0\PRPCRepository.AssemblyInfoInputs.cache
+C:\CIDM4390\PRPC-tests-sendgrid\PRPC-tests-sendgrid\PRPCRepository\obj\Debug\netstandard2.0\PRPCRepository.AssemblyInfo.cs
+C:\CIDM4390\PRPC\PRPCRepository\obj\Debug\netstandard2.0\PRPCRepository.csprojAssemblyReference.cache
+C:\CIDM4390\PRPC\PRPCRepository\obj\Debug\netstandard2.0\PRPCRepository.csproj.CoreCompileInputs.cache
+C:\CIDM4390\PRPC\PRPCRepository\obj\Debug\netstandard2.0\PRPCRepository.AssemblyInfoInputs.cache
+C:\CIDM4390\PRPC\PRPCRepository\obj\Debug\netstandard2.0\PRPCRepository.AssemblyInfo.cs
+C:\CIDM4390\PRPC\PRPCRepository\bin\Debug\netstandard2.0\PRPCRepository.deps.json
+C:\CIDM4390\PRPC\PRPCRepository\bin\Debug\netstandard2.0\PRPCRepository.dll
+C:\CIDM4390\PRPC\PRPCRepository\bin\Debug\netstandard2.0\PRPCRepository.pdb
+C:\CIDM4390\PRPC\PRPCRepository\obj\Debug\netstandard2.0\PRPCRepository.dll
+C:\CIDM4390\PRPC\PRPCRepository\obj\Debug\netstandard2.0\PRPCRepository.pdb
