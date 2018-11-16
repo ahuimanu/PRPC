@@ -1,0 +1,14 @@
+C:\CIDM4390\PRPC\PRPCTestClient\obj\Debug\netcoreapp2.1\PRPCTestClient.csprojAssemblyReference.cache
+C:\CIDM4390\PRPC\PRPCTestClient\obj\Debug\netcoreapp2.1\PRPCTestClient.csproj.CoreCompileInputs.cache
+C:\CIDM4390\PRPC\PRPCTestClient\obj\Debug\netcoreapp2.1\PRPCTestClient.AssemblyInfoInputs.cache
+C:\CIDM4390\PRPC\PRPCTestClient\obj\Debug\netcoreapp2.1\PRPCTestClient.AssemblyInfo.cs
+C:\CIDM4390\PRPC\PRPCTestClient\bin\Debug\netcoreapp2.1\PRPCTestClient.deps.json
+C:\CIDM4390\PRPC\PRPCTestClient\bin\Debug\netcoreapp2.1\PRPCTestClient.runtimeconfig.json
+C:\CIDM4390\PRPC\PRPCTestClient\bin\Debug\netcoreapp2.1\PRPCTestClient.runtimeconfig.dev.json
+C:\CIDM4390\PRPC\PRPCTestClient\bin\Debug\netcoreapp2.1\PRPCTestClient.dll
+C:\CIDM4390\PRPC\PRPCTestClient\bin\Debug\netcoreapp2.1\PRPCTestClient.pdb
+C:\CIDM4390\PRPC\PRPCTestClient\bin\Debug\netcoreapp2.1\PRPCRepositoryLib.dll
+C:\CIDM4390\PRPC\PRPCTestClient\bin\Debug\netcoreapp2.1\PRPCRepositoryLib.pdb
+C:\CIDM4390\PRPC\PRPCTestClient\obj\Debug\netcoreapp2.1\PRPCTestClient.csproj.CopyComplete
+C:\CIDM4390\PRPC\PRPCTestClient\obj\Debug\netcoreapp2.1\PRPCTestClient.dll
+C:\CIDM4390\PRPC\PRPCTestClient\obj\Debug\netcoreapp2.1\PRPCTestClient.pdb

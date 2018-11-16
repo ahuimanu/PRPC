@@ -1,0 +1,9 @@
+C:\CIDM4390\PRPC\PRPCRepositoryLib\bin\Debug\netstandard2.0\PRPCRepositoryLib.deps.json
+C:\CIDM4390\PRPC\PRPCRepositoryLib\bin\Debug\netstandard2.0\PRPCRepositoryLib.dll
+C:\CIDM4390\PRPC\PRPCRepositoryLib\bin\Debug\netstandard2.0\PRPCRepositoryLib.pdb
+C:\CIDM4390\PRPC\PRPCRepositoryLib\obj\Debug\netstandard2.0\PRPCRepositoryLib.csprojAssemblyReference.cache
+C:\CIDM4390\PRPC\PRPCRepositoryLib\obj\Debug\netstandard2.0\PRPCRepositoryLib.csproj.CoreCompileInputs.cache
+C:\CIDM4390\PRPC\PRPCRepositoryLib\obj\Debug\netstandard2.0\PRPCRepositoryLib.AssemblyInfoInputs.cache
+C:\CIDM4390\PRPC\PRPCRepositoryLib\obj\Debug\netstandard2.0\PRPCRepositoryLib.AssemblyInfo.cs
+C:\CIDM4390\PRPC\PRPCRepositoryLib\obj\Debug\netstandard2.0\PRPCRepositoryLib.dll
+C:\CIDM4390\PRPC\PRPCRepositoryLib\obj\Debug\netstandard2.0\PRPCRepositoryLib.pdb
