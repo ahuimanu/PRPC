@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSVerifyLib", "SMSVerifyLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthLib", "OAuthLib\OAuthLib.csproj", "{49734E7F-23F4-407F-A37B-811E9D6253CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoFactorLib", "TwoFactorLib\TwoFactorLib.csproj", "{3530A4C1-3812-4869-8B64-798D4774AB62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,5 +102,17 @@ Global
 		{49734E7F-23F4-407F-A37B-811E9D6253CF}.Release|x64.Build.0 = Release|Any CPU
 		{49734E7F-23F4-407F-A37B-811E9D6253CF}.Release|x86.ActiveCfg = Release|Any CPU
 		{49734E7F-23F4-407F-A37B-811E9D6253CF}.Release|x86.Build.0 = Release|Any CPU
+		{3530A4C1-3812-4869-8B64-798D4774AB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3530A4C1-3812-4869-8B64-798D4774AB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3530A4C1-3812-4869-8B64-798D4774AB62}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3530A4C1-3812-4869-8B64-798D4774AB62}.Debug|x64.Build.0 = Debug|Any CPU
+		{3530A4C1-3812-4869-8B64-798D4774AB62}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3530A4C1-3812-4869-8B64-798D4774AB62}.Debug|x86.Build.0 = Debug|Any CPU
+		{3530A4C1-3812-4869-8B64-798D4774AB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3530A4C1-3812-4869-8B64-798D4774AB62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3530A4C1-3812-4869-8B64-798D4774AB62}.Release|x64.ActiveCfg = Release|Any CPU
+		{3530A4C1-3812-4869-8B64-798D4774AB62}.Release|x64.Build.0 = Release|Any CPU
+		{3530A4C1-3812-4869-8B64-798D4774AB62}.Release|x86.ActiveCfg = Release|Any CPU
+		{3530A4C1-3812-4869-8B64-798D4774AB62}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

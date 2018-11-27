@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
+      "DotNetEnv/1.2.0": {
+        "type": "package",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "lib/netstandard1.3/DotNetEnv.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/DotNetEnv.dll": {}
+        }
+      },
       "Microsoft.NETCore.Platforms/1.1.0": {
         "type": "package",
         "compile": {
@@ -29,6 +41,17 @@
     }
   },
   "libraries": {
+    "DotNetEnv/1.2.0": {
+      "sha512": "rz5dn2dP9yyvZTAR5Ae+5RuyvrPG9Hd3qgMJ4/5Lrv6DzHtowSiV2hpEFbRjRLJFug7TzHfa7titUQnwNMhUIA==",
+      "type": "package",
+      "path": "dotnetenv/1.2.0",
+      "files": [
+        ".signature.p7s",
+        "dotnetenv.1.2.0.nupkg.sha512",
+        "dotnetenv.nuspec",
+        "lib/netstandard1.3/DotNetEnv.dll"
+      ]
+    },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
@@ -172,6 +195,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "DotNetEnv >= 1.2.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -182,11 +206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\jeff\\Dropbox\\CIS\\CIDM\\CIDM4390\\2018-Fall\\Code\\PRPC\\OAuthLib\\OAuthLib.csproj",
-      "projectName": "OAuthLib",
-      "projectPath": "D:\\jeff\\Dropbox\\CIS\\CIDM\\CIDM4390\\2018-Fall\\Code\\PRPC\\OAuthLib\\OAuthLib.csproj",
+      "projectUniqueName": "D:\\jeff\\Dropbox\\CIS\\CIDM\\CIDM4390\\2018-Fall\\Code\\PRPC\\TwoFactorLib\\TwoFactorLib.csproj",
+      "projectName": "TwoFactorLib",
+      "projectPath": "D:\\jeff\\Dropbox\\CIS\\CIDM\\CIDM4390\\2018-Fall\\Code\\PRPC\\TwoFactorLib\\TwoFactorLib.csproj",
       "packagesPath": "C:\\Users\\jeff\\.nuget\\packages\\",
-      "outputPath": "D:\\jeff\\Dropbox\\CIS\\CIDM\\CIDM4390\\2018-Fall\\Code\\PRPC\\OAuthLib\\obj\\",
+      "outputPath": "D:\\jeff\\Dropbox\\CIS\\CIDM\\CIDM4390\\2018-Fall\\Code\\PRPC\\TwoFactorLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -216,6 +240,10 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
+          "DotNetEnv": {
+            "target": "Package",
+            "version": "[1.2.0, )"
+          },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",

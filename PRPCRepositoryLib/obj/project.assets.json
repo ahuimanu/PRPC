@@ -2714,23 +2714,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jbabb\\.nuget\\packages\\": {},
+    "C:\\Users\\jeff\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CIDM4390\\PRPC\\PRPCRepositoryLib\\PRPCRepositoryLib.csproj",
+      "projectUniqueName": "D:\\jeff\\Dropbox\\CIS\\CIDM\\CIDM4390\\2018-Fall\\Code\\PRPC\\PRPCRepositoryLib\\PRPCRepositoryLib.csproj",
       "projectName": "PRPCRepositoryLib",
-      "projectPath": "C:\\CIDM4390\\PRPC\\PRPCRepositoryLib\\PRPCRepositoryLib.csproj",
-      "packagesPath": "C:\\Users\\jbabb\\.nuget\\packages\\",
-      "outputPath": "C:\\CIDM4390\\PRPC\\PRPCRepositoryLib\\obj\\",
+      "projectPath": "D:\\jeff\\Dropbox\\CIS\\CIDM\\CIDM4390\\2018-Fall\\Code\\PRPC\\PRPCRepositoryLib\\PRPCRepositoryLib.csproj",
+      "packagesPath": "C:\\Users\\jeff\\.nuget\\packages\\",
+      "outputPath": "D:\\jeff\\Dropbox\\CIS\\CIDM\\CIDM4390\\2018-Fall\\Code\\PRPC\\PRPCRepositoryLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jbabb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jeff\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
